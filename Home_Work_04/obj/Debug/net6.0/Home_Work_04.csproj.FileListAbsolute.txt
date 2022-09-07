@@ -1,0 +1,16 @@
+C:\Users\User\Project_01\Home_Work_04\bin\Debug\net6.0\Home_Work_04.exe
+C:\Users\User\Project_01\Home_Work_04\bin\Debug\net6.0\Home_Work_04.deps.json
+C:\Users\User\Project_01\Home_Work_04\bin\Debug\net6.0\Home_Work_04.runtimeconfig.json
+C:\Users\User\Project_01\Home_Work_04\bin\Debug\net6.0\Home_Work_04.dll
+C:\Users\User\Project_01\Home_Work_04\bin\Debug\net6.0\ref\Home_Work_04.dll
+C:\Users\User\Project_01\Home_Work_04\bin\Debug\net6.0\Home_Work_04.pdb
+C:\Users\User\Project_01\Home_Work_04\obj\Debug\net6.0\Home_Work_04.GlobalUsings.g.cs
+C:\Users\User\Project_01\Home_Work_04\obj\Debug\net6.0\Home_Work_04.csproj.AssemblyReference.cache
+C:\Users\User\Project_01\Home_Work_04\obj\Debug\net6.0\Home_Work_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Project_01\Home_Work_04\obj\Debug\net6.0\Home_Work_04.AssemblyInfoInputs.cache
+C:\Users\User\Project_01\Home_Work_04\obj\Debug\net6.0\Home_Work_04.AssemblyInfo.cs
+C:\Users\User\Project_01\Home_Work_04\obj\Debug\net6.0\Home_Work_04.csproj.CoreCompileInputs.cache
+C:\Users\User\Project_01\Home_Work_04\obj\Debug\net6.0\Home_Work_04.dll
+C:\Users\User\Project_01\Home_Work_04\obj\Debug\net6.0\ref\Home_Work_04.dll
+C:\Users\User\Project_01\Home_Work_04\obj\Debug\net6.0\Home_Work_04.pdb
+C:\Users\User\Project_01\Home_Work_04\obj\Debug\net6.0\Home_Work_04.genruntimeconfig.cache
